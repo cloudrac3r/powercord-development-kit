@@ -1,0 +1,7 @@
+{
+  "name": "Powercord Development Kit",
+  "version": "0.8.0",
+  "description": "Provide handy shortcuts for people developing plugins for Powercord.",
+  "author": "Cadence#3263",
+  "license": "MIT"
+}
